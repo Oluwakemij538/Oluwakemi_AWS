@@ -14,5 +14,8 @@ Below is the image of my keypair details
 ![keypair details](/Keypair.png)
 ### security group creation
 Below is the image of my security group details 
-![security group](security group.png)
+![security group](/security group.png)
+### EC2 instance creation
+Below is the image of the running EC2 instance
+![EC2 instance](/EC2 instance.png)
 
