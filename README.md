@@ -17,5 +17,5 @@ Below is the image of my security group details
 ![security group](/security group.png)
 ### EC2 instance creation
 Below is the image of the running EC2 instance
-![EC2 instance](/EC2 instance.png)
+![EC2 instance]https://github.com/Oluwakemij538/Oluwakemi_AWS/blob/main/EC2%20instance.png
 
